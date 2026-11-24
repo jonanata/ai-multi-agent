@@ -16,7 +16,7 @@ For a deep dive into the engineering principles, architectural decisions, and st
 
 * 🌐 **Technical Blog Post:** [Read full article](https://blog.jonanata.com/building-a-production-multi-agent-customer-support-system-with-strands-agents-sdk-and-amazon-bedrock-agentcore/)
 
-* ☁️ **AWS Community Builders Article:** [Read on AWS Builders Center](https://builder.aws.com/content/3LvNEFpOuBTNAYB0cyMRGhcP8y6/autonomous-tool-orchestration-and-multi-capability-agent-systems-with-amazon-bedrock-agentcore-and-strands-sdk)
+* ☁️ **AWS Community Builders Article:** [Read on AWS Builders Center](https://builder.aws.com/content/3MZB8M0EQX2DWWqVnaEI2MLAbEs/building-a-production-multi-agent-customer-support-system-with-strands-agents-sdk-and-amazon-bedrock-agentcore)
 
 * 🔗 **Official Starter Template:** [udacity/cd14764-aws-agentic-c3-classroom/tree/main/project/starter](https://github.com/udacity/cd14764-aws-agentic-c3-classroom/tree/main/project/starter)
 
