@@ -1,0 +1,32 @@
+================================================================================
+AGENTCORE DEPLOY LOG
+Command: deploy
+Started: 2026-10-19T05:58:37.942Z
+================================================================================
+
+
+[05:58:37] STEP: Load deployment target
+[05:58:37] Status: SUCCESS
+[05:58:37] Duration: 6ms
+
+[05:58:37] STEP: Validate project
+[05:58:38] Status: SUCCESS
+[05:58:38] Duration: 137ms
+
+[05:58:38] STEP: Sync CDK dependencies
+[05:58:38] Status: SUCCESS
+[05:58:38] Duration: 5ms
+
+[05:58:38] STEP: Build CDK project
+[05:58:51] Status: SUCCESS
+[05:58:51] Duration: 13.1s
+
+[05:58:51] STEP: Synthesize CloudFormation
+[05:58:52] [ERROR] CDK synth failed: node dist/bin/cdk.js: Subprocess exited with error 1
+[05:58:52] Status: FAILED
+[05:58:52] Duration: 1.4s
+
+================================================================================
+FAILED
+Total Duration: 14.7s
+================================================================================
